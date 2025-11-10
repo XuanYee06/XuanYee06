@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 💡 I enjoy exploring how data can solve real-world problems  
 <br>
 
+
 ## 🌱Education 
 - Universiti Teknologi Malaysia *(2025 – Present)*     
 &nbsp;&nbsp;&nbsp;&nbsp;- **Bachelor of Computer Science (Data Engineering)**
@@ -54,6 +55,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)  
 <br>
+![PROGRAMMING](https://github.com/user-attachments/assets/b9ab0ebc-e305-4048-942a-9fd9411939eb)
 
 ## 🧩 I'm Currently Learning
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -65,6 +67,7 @@ Here are some ideas to get you started:
 💼 LinkedIn: [in/ng-xuan-yee-114823397](https://www.linkedin.com/in/ng-xuan-yee-114823397/)  
 💬 WhatsApp: [Chat with me](https://wa.me/601110842832)  
 
+![spin girl](https://github.com/user-attachments/assets/2fede74a-defc-4823-abc1-d12571b86558)
 
 
 ⭐ *“Every big journey starts with a single commit.”* 🚀
