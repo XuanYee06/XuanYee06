@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 🎓 **Year 1 Data Engineering Student @ Universiti Teknologi Malaysia (UTM)**  
 💻 Interested in Data Analytics, Web & App Development and AI tools  
 💡 I enjoy exploring how data can solve real-world problems  
-<br>
+
+---
 
 
-## 🌱Education 
+## 🌱 Education 
 - Universiti Teknologi Malaysia *(2025 – Present)*     
 &nbsp;&nbsp;&nbsp;&nbsp;- **Bachelor of Computer Science (Data Engineering)**
    
@@ -30,16 +31,16 @@ Here are some ideas to get you started:
   
 - SMJK Kwang Hua *(2019 – 2024)*    
 &nbsp;&nbsp;&nbsp;&nbsp;- **SPM:** 10A  
-
+<br>
   
-## 🤝 Committee Involvement
+## 🤝 Position
 - Kolej Matrikulasi Pulau Pinang    
 &nbsp;&nbsp;&nbsp;&nbsp;- Assistant head of publicity of Galactic Hackathon Club -- *2025*  
   
 - SMJK Kwang Hua  
 &nbsp;&nbsp;&nbsp;&nbsp;- Head of Taekwondo Club -- *2022-2024*  
 &nbsp;&nbsp;&nbsp;&nbsp;- Head of Bahasa Melayu Club -- *2024*   
-
+<br>
   
 ## 🏆 Achievements
 - Participated in UTMDigital Open Day 2025  
@@ -49,8 +50,8 @@ Here are some ideas to get you started:
 - **1st place** in MILO National Junior Taekwondo Championship 2022
 <br>
 
-## 🛠️ Technical Skills
-### 💻 Programming & Tools
+
+## 💻 Programming & Tools
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)  
