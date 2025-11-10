@@ -55,7 +55,6 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)  
 <br>
-![PROGRAMMING](https://github.com/user-attachments/assets/b9ab0ebc-e305-4048-942a-9fd9411939eb)
 
 ## 🧩 I'm Currently Learning
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
