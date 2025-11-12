@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Ng Xuan Yee! ^^
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45">^^ Hi, I'm Ng Xuan Yee! 
 ![Profile views](https://komarev.com/ghpvc/?username=XuanYee06&color=FF69B4&style=for-the-badge)
 <!--
 **XuanYee06/XuanYee06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -71,3 +71,6 @@ Here are some ideas to get you started:
 
 
 ⭐ *“Every big journey starts with a single commit.”* 🚀
+
+
+
