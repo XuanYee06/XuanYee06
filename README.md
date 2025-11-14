@@ -62,6 +62,8 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 <br>
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/XuanYee06?cardType=github&theme=graywhite&preferLogin=false&Ring=26194E)](https://git.io/awesome-stats-card)  
+
 ## 📬 Connect With Me
 📧 Email: [xuanyeeng@gmail.com](mailto:xuanyeeng@gmail.com)  
 💼 LinkedIn: [in/ng-xuan-yee-114823397](https://www.linkedin.com/in/ng-xuan-yee-114823397/)  
