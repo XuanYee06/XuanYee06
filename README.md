@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;- **MUET:** Band 4.5
   
 - SMJK Kwang Hua *(2019 – 2024)*    
-&nbsp;&nbsp;&nbsp;&nbsp;- **SPM:** 10A  
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- **SPM:** 10A
+
   
 ## 🤝 Position
 - Kolej Matrikulasi Pulau Pinang    
@@ -39,8 +39,8 @@ Here are some ideas to get you started:
   
 - SMJK Kwang Hua  
 &nbsp;&nbsp;&nbsp;&nbsp;- Head of Taekwondo Club -- *2022-2024*  
-&nbsp;&nbsp;&nbsp;&nbsp;- Head of Bahasa Melayu Club -- *2024*   
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Head of Bahasa Melayu Club -- *2024*
+
   
 ## 🏆 Achievements
 - Participated in UTMDigital Open Day 2025  
