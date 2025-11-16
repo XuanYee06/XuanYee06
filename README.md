@@ -10,12 +10,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  ...
 -->
 
 🎓 **Year 1 Data Engineering Student @ Universiti Teknologi Malaysia (UTM)**  
 💻 Interested in Data Analytics, Web & App Development and AI tools  
 💡 I enjoy exploring how data can solve real-world problems  
+⚡ Fun fact: I'm a vegetarian 🥬
 
 ---
 
@@ -24,8 +25,7 @@ Here are some ideas to get you started:
 - Universiti Teknologi Malaysia *(2025 – Present)*     
 &nbsp;&nbsp;&nbsp;&nbsp;- **Bachelor of Computer Science (Data Engineering)**
    
-- Kolej Matrikulasi Pulau Pinang *(2024 – 2025)*    
-&nbsp;&nbsp;&nbsp;&nbsp;- **Physical Science**     
+- Kolej Matrikulasi Pulau Pinang *(2024 – 2025)*        
 &nbsp;&nbsp;&nbsp;&nbsp;- **CGPA:** 4.0  
 &nbsp;&nbsp;&nbsp;&nbsp;- **MUET:** Band 4.5
   
@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 📧 Email: [xuanyeeng@gmail.com](mailto:xuanyeeng@gmail.com)  
 💼 LinkedIn: [in/ng-xuan-yee-114823397](https://www.linkedin.com/in/ng-xuan-yee-114823397/)  
 💬 WhatsApp: [Chat with me](https://wa.me/601110842832)  
+👣 Instagram: [xuanyee_1026](https://www.instagram.com/xuanyee_1026/)
 
 ![spin girl](https://github.com/user-attachments/assets/2fede74a-defc-4823-abc1-d12571b86558)
 
