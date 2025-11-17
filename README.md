@@ -23,11 +23,13 @@ Here are some ideas to get you started:
 
 ## 🌱 Education 
 - Universiti Teknologi Malaysia *(2025 – Present)*     
-&nbsp;&nbsp;&nbsp;&nbsp;- **Bachelor of Computer Science (Data Engineering)**
+&nbsp;&nbsp;&nbsp;&nbsp;- **Course:** Bachelor of Computer Science (Data Engineering)  
    
 - Kolej Matrikulasi Pulau Pinang *(2024 – 2025)*        
+&nbsp;&nbsp;&nbsp;&nbsp;- **Course:** Physical Science  
 &nbsp;&nbsp;&nbsp;&nbsp;- **CGPA:** 4.0  
 &nbsp;&nbsp;&nbsp;&nbsp;- **MUET:** Band 4.5
+
   
 - SMJK Kwang Hua *(2019 – 2024)*    
 &nbsp;&nbsp;&nbsp;&nbsp;- **SPM:** 10A
@@ -35,11 +37,11 @@ Here are some ideas to get you started:
   
 ## 🤝 Position
 - Kolej Matrikulasi Pulau Pinang    
-&nbsp;&nbsp;&nbsp;&nbsp;- Assistant head of publicity of Galactic Hackathon Club -- *2025*  
+&nbsp;&nbsp;&nbsp;&nbsp;- Vice president of publicity of Galactic Hackathon Club -- *2025*  
   
 - SMJK Kwang Hua  
-&nbsp;&nbsp;&nbsp;&nbsp;- Head of Taekwondo Club -- *2022-2024*  
-&nbsp;&nbsp;&nbsp;&nbsp;- Head of Bahasa Melayu Club -- *2024*
+&nbsp;&nbsp;&nbsp;&nbsp;- President of Taekwondo Club -- *2022-2024*  
+&nbsp;&nbsp;&nbsp;&nbsp;- President of Bahasa Melayu Club -- *2024*  
 
   
 ## 🏆 Achievements
