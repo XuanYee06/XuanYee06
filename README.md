@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 🌱 Education 
 - Universiti Teknologi Malaysia *(2025 – Present)*     
-&nbsp;&nbsp;&nbsp;&nbsp;- **Course:** Bachelor of Computer Science (Data Engineering)  
+&nbsp;&nbsp;&nbsp;&nbsp;- **Course:** Bachelor of Computer Science (Data Engineering) with Honors  
    
 - Kolej Matrikulasi Pulau Pinang *(2024 – 2025)*        
 &nbsp;&nbsp;&nbsp;&nbsp;- **Course:** Physical Science  
