@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-🎓 **Year 1 Data Engineering Student @ Universiti Teknologi Malaysia (UTM)**  
+🎓 **Year 1 Data Engineering Student at Universiti Teknologi Malaysia (UTM)**  
 💻 Interested in Data Analytics, Web & App Development and AI tools  
 💡 I enjoy exploring how data can solve real-world problems  
 ⚡ Fun fact: I'm a vegetarian 🥬
