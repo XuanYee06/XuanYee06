@@ -52,7 +52,6 @@ Here are some ideas to get you started:
 - **1st place** in MILO National Junior Taekwondo Championship 2022
 <br>
 
-
 ## 💻 Programming & Tools
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
