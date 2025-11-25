@@ -36,7 +36,8 @@ Here are some ideas to get you started:
   
 ## 🤝 Position
 - Kolej Matrikulasi Pulau Pinang    
-&nbsp;&nbsp;&nbsp;&nbsp; - Assistant head of publicity of Galactic Hackathon Club -- *2025*  
+&nbsp;&nbsp;&nbsp;&nbsp;- Assistant head of publicity of Galactic Hackathon Club -- *2025*
+
   
 - SMJK Kwang Hua  
 &nbsp;&nbsp;&nbsp;&nbsp;- President of Taekwondo Club -- *2022-2024*  
