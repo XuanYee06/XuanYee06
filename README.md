@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=XuanYee06&tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XuanYee06&show_icons=true&theme=radical)
+
 
 
 🎓 **Year 1 Data Engineering Student at Universiti Teknologi Malaysia (UTM)**  
