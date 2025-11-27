@@ -11,11 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XuanYee06&show_icons=true&theme=dracula)
-
-
-
 🎓 **Year 1 Data Engineering Student at Universiti Teknologi Malaysia (UTM)**  
 💻 Interested in Data Analytics, Web & App Development and AI tools  
 💡 I enjoy exploring how data can solve real-world problems  
@@ -67,7 +62,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 <br>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/XuanYee06?cardType=github&theme=graywhite&preferLogin=false&Ring=26194E)](https://git.io/awesome-stats-card)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XuanYee06&show_icons=true&theme=dracula)  
 
 ## 📬 Connect With Me
 🔗 GitHub: [XuanYee06](https://github.com/XuanYee06)  
