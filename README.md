@@ -38,16 +38,18 @@ Here are some ideas to get you started:
 ## 🤝 Position
 - Kolej Matrikulasi Pulau Pinang    
 &nbsp;&nbsp;&nbsp;&nbsp;- Assistant head of publicity of Galactic Hackathon Club -- *2025*  
-&nbsp;&nbsp;&nbsp;&nbsp;- Karnival STEM Matikulasi MASCAR Volunteer -- *2025*   
+&nbsp;&nbsp;&nbsp;&nbsp;- Karnival STEM Matikulasi MASCAR Volunteer -- *2024*
   
 - SMJK Kwang Hua  
 &nbsp;&nbsp;&nbsp;&nbsp;- President of Taekwondo Club -- *2022-2024*  
-&nbsp;&nbsp;&nbsp;&nbsp;- President of Bahasa Melayu Club -- *2024*
+&nbsp;&nbsp;&nbsp;&nbsp;- President of Bahasa Melayu Club -- *2024*  
 &nbsp;&nbsp;&nbsp;&nbsp;- Librarian -- *2019-2024*
 
   
 ## 🏆 Achievements 
-- Participated in Matrix Extra Challenge Quiz (MeX-Q) - 2024  
+- Participated in Matrix Extra Challenge Quiz (MeX-Q) - 2024
+- Paticipated in Malaysia Future Leaders School (MFLS) Tier 1 - 2023  
+- Participated in Kuiz Kimia Kebangsaan Malaysia (K3M) - 2023  
 - 2nd place in Taekwondo MSSD - 2023  
 - 1st place in Taekwondo Poomsae Championship - 2022  
 - 1st place in MILO National Junior Taekwondo Championship - 2022
