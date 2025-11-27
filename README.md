@@ -1,5 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45">^^ Hi, I'm Ng Xuan Yee! 
 ![Profile views](https://komarev.com/ghpvc/?username=XuanYee06&color=FF69B4&style=for-the-badge)
+
+
 <!--
 **XuanYee06/XuanYee06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -40,15 +42,15 @@ Here are some ideas to get you started:
   
 - SMJK Kwang Hua  
 &nbsp;&nbsp;&nbsp;&nbsp;- President of Taekwondo Club -- *2022-2024*  
-&nbsp;&nbsp;&nbsp;&nbsp;- President of Bahasa Melayu Club -- *2024*  
+&nbsp;&nbsp;&nbsp;&nbsp;- President of Bahasa Melayu Club -- *2024*
+&nbsp;&nbsp;&nbsp;&nbsp;- Librarian -- *2019-2024*
 
   
-## 🏆 Achievements
-- Participated in UTMDigital Open Day 2025  
-- Participated in Matrix Extra Challenge Quiz (MeX-Q) 2024  
-- **2nd place** in Taekwondo MSSD 2023  
-- **1st place** in Taekwondo Poomsae Championship 2022  
-- **1st place** in MILO National Junior Taekwondo Championship 2022
+## 🏆 Achievements 
+- Participated in Matrix Extra Challenge Quiz (MeX-Q) - 2024  
+- 2nd place in Taekwondo MSSD - 2023  
+- 1st place in Taekwondo Poomsae Championship - 2022  
+- 1st place in MILO National Junior Taekwondo Championship - 2022
 <br>
 
 ## 💻 Programming & Tools
