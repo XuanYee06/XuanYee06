@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/XuanYee06?cardType=github&theme=graywhite&preferLogin=false&Ring=26194E)](https://git.io/awesome-stats-card)  
 
 ## 📬 Connect With Me
+🔗 GitHub: [XuanYee06](https://github.com/XuanYee06)  
 📧 Email: [xuanyeeng@gmail.com](mailto:xuanyeeng@gmail.com)  
 💼 LinkedIn: [in/ng-xuan-yee-114823397](https://www.linkedin.com/in/ng-xuan-yee-114823397/)  
 💬 WhatsApp: [Chat with me](https://wa.me/601110842832)  
