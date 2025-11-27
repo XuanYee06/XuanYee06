@@ -46,10 +46,10 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;- Librarian -- *2019-2024*  
 &nbsp;&nbsp;&nbsp;&nbsp;- Ketua Eksekutif Librarian -- *2024*  
   
-## 🏆 Achievements 
+## 🏆 Certificates & Awards
 - Participated in Matrix Extra Challenge Quiz (MeX-Q) - 2024
 - Paticipated in Malaysia Future Leaders School (MFLS) Tier 1 - 2023  
-- Participated in Kuiz Kimia Kebangsaan Malaysia (K3M) - 2023  
+- Participated in Kuiz Kimia Kebangsaan Malaysia (K₃M) - 2023  
 - 2nd place in MBW International Taekwondo Championship - 2023  
 - 1st place in 11th TM-KBS-MILO National Junior Taekwondo Championship - 2022
 - 1st place in Malaysia Kukkiwon Taekwondo Hanmadang - 2019  
