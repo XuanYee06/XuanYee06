@@ -59,7 +59,10 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 <br>
 
+## 🪧 My GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XuanYee06&show_icons=true&theme=dracula)  
+
 
 ## 📬 Connect With Me
 🔗 GitHub: [XuanYee06](https://github.com/XuanYee06)  
