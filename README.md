@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=XuanYee06&show_icons=true&theme=radical" height="auto">
   <img src="https://github.com/user-attachments/assets/2fede74a-defc-4823-abc1-d12571b86558" height="auto">
-</p>
+</p> <br>  
 
 ## 📬 Connect With Me
 🔗 GitHub: [XuanYee06](https://github.com/XuanYee06)  
@@ -77,7 +77,6 @@ Here are some ideas to get you started:
 💬 WhatsApp: [Chat with me](https://wa.me/601110842832)  
 👣 Instagram: [xuanyee_1026](https://www.instagram.com/xuanyee_1026/)
 
-![spin girl](https://github.com/user-attachments/assets/2fede74a-defc-4823-abc1-d12571b86558)
 
 
 ⭐ *“Every big journey starts with a single commit.”* 🚀
