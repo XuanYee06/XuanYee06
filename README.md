@@ -65,8 +65,14 @@ Here are some ideas to get you started:
 
 ## 🪧 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XuanYee06&show_icons=true&theme=dracula)  
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XuanYee06&show_icons=true&theme=dracula) | ![spin girl](https://github.com/user-attachments/assets/2fede74a-defc-4823-abc1-d12571b86558) |  
+| --- | --- |
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XuanYee06&show_icons=true&theme=radical" height="auto">
+  <img src="https://github.com/user-attachments/assets/2fede74a-defc-4823-abc1-d12571b86558" height="auto">
+</p>
 
 ## 📬 Connect With Me
 🔗 GitHub: [XuanYee06](https://github.com/XuanYee06)  
