@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 <br>
 
 # 📚 Courses
-- ![SECI1013 - Discrete Structure](https://github.com/XuanYee06/MyUniversityJourney/tree/4d5646e66c30bfc878c84caae1128cc842f5934f/SECI1013%20-%20Discrete%20Structure)
-- ![SECJ1013 - Programming Technique I](https://github.com/XuanYee06/MyUniversityJourney/tree/4d5646e66c30bfc878c84caae1128cc842f5934f/SECJ1013%20-%20Programming%20Technique%20I)
-- ![SECP1513 - Technology and Information System](https://github.com/XuanYee06/MyUniversityJourney/tree/4d5646e66c30bfc878c84caae1128cc842f5934f/SECP1513%20-%20Technology%20and%20Information%20System)
-- ![SECR1013 - Digital Logic](https://github.com/XuanYee06/MyUniversityJourney/tree/4d5646e66c30bfc878c84caae1128cc842f5934f/SECR1013%20-%20Digital%20Logic)
-- ![ULRS1032 - Integrity and Anti-Corruption](https://github.com/XuanYee06/MyUniversityJourney/tree/4d5646e66c30bfc878c84caae1128cc842f5934f/ULRS1032%20-%20Integrity%20and%20Anti-Corruption)
+- [SECI1013 - Discrete Structure](https://github.com/XuanYee06/MyUniversityJourney/tree/4d5646e66c30bfc878c84caae1128cc842f5934f/SECI1013%20-%20Discrete%20Structure)
+- [SECJ1013 - Programming Technique I](https://github.com/XuanYee06/MyUniversityJourney/tree/4d5646e66c30bfc878c84caae1128cc842f5934f/SECJ1013%20-%20Programming%20Technique%20I)
+- [SECP1513 - Technology and Information System](https://github.com/XuanYee06/MyUniversityJourney/tree/4d5646e66c30bfc878c84caae1128cc842f5934f/SECP1513%20-%20Technology%20and%20Information%20System)
+- [SECR1013 - Digital Logic](https://github.com/XuanYee06/MyUniversityJourney/tree/4d5646e66c30bfc878c84caae1128cc842f5934f/SECR1013%20-%20Digital%20Logic)
+- [ULRS1032 - Integrity and Anti-Corruption](https://github.com/XuanYee06/MyUniversityJourney/tree/4d5646e66c30bfc878c84caae1128cc842f5934f/ULRS1032%20-%20Integrity%20and%20Anti-Corruption)
 
 # 🪧 My GitHub Stats
 <p align="center">
