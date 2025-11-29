@@ -1,7 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45">^^ Hi, I'm Ng Xuan Yee! 
 ![Profile views](https://komarev.com/ghpvc/?username=XuanYee06&color=FF69B4&style=for-the-badge)
 
-
 <!--
 **XuanYee06/XuanYee06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -20,8 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-
-## 🌱 Education 
+# 🌱 Education 
 - Universiti Teknologi Malaysia *(2025 – Present)*     
 &nbsp;&nbsp;&nbsp;&nbsp;- **Course:** Bachelor of Computer Science (Data Engineering) with Honors  
    
@@ -35,7 +33,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;- **SPM:** 10A
 
   
-## 🤝 Position
+# 🤝 Position
 - Kolej Matrikulasi Pulau Pinang    
 &nbsp;&nbsp;&nbsp;&nbsp;- Assistant head of publicity of Galactic Hackathon Club -- *2025*  
 &nbsp;&nbsp;&nbsp;&nbsp;- Volunteer of Karnival STEM Matikulasi MASCAR -- *2024*  
