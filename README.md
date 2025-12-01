@@ -39,9 +39,10 @@ Here are some ideas to get you started:
   
 - SMJK Kwang Hua  
 &nbsp;&nbsp;&nbsp;&nbsp;- President of Taekwondo Club -- *2022-2024*  
-&nbsp;&nbsp;&nbsp;&nbsp;- President of Bahasa Melayu Club -- *2024*  
-&nbsp;&nbsp;&nbsp;&nbsp;- Librarian -- *2019-2024*  
+&nbsp;&nbsp;&nbsp;&nbsp;- President of Bahasa Melayu Club -- *2024*
 &nbsp;&nbsp;&nbsp;&nbsp;- Ketua Eksekutif Librarian -- *2024*  
+&nbsp;&nbsp;&nbsp;&nbsp;- Librarian -- *2019-2024*  
+
   
 # 🏆 Certificates & Awards
 - Participated in Matrix Extra Challenge Quiz (MeX-Q) - 2024
