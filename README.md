@@ -63,6 +63,9 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 <br>
 
+# 📔 Projects  
+
+
 # 📚 Courses
 - [SECI1013 - Discrete Structure](https://github.com/XuanYee06/MyUniversityJourney/tree/4d5646e66c30bfc878c84caae1128cc842f5934f/SECI1013%20-%20Discrete%20Structure)
 - [SECJ1013 - Programming Technique I](https://github.com/XuanYee06/MyUniversityJourney/tree/4d5646e66c30bfc878c84caae1128cc842f5934f/SECJ1013%20-%20Programming%20Technique%20I)
