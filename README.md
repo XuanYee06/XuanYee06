@@ -64,9 +64,8 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 <br>
-![Github](https://github-readme-stats.vercel.app/api?username=XuanYee06&show_icons=true&theme=radical)
+
 # 📔 Projects  
 ① **E-portfolio**   
 
