@@ -66,10 +66,9 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <br>
-
+![Github](https://github-readme-stats.vercel.app/api?username=XuanYee06&show_icons=true&theme=radical)
 # 📔 Projects  
 ① **E-portfolio**   
-Click !(here)[https://github.com/XuanYee06/MyPortfolio/blob/0efbca8df26e9562f597489945cbb3da47d0a692/README.md] to view more details  
 
 # 📚 Courses
 - [SECI1013 - Discrete Structure](https://github.com/XuanYee06/MyUniversityJourney/tree/4d5646e66c30bfc878c84caae1128cc842f5934f/SECI1013%20-%20Discrete%20Structure)
