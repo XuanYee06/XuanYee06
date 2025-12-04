@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 💻 Interested in Data Analytics, Web & App Development and AI tools  
 💡 I enjoy exploring how data can solve real-world problems  
 ⚡ Fun fact: I'm a vegetarian 🥬
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XuanYee06&bg_color=191919&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true)
+
 
 ---
 
