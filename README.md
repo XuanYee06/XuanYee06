@@ -78,12 +78,8 @@ Here are some ideas to get you started:
 <br>
 
 # 🪧 My GitHub Stats
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XuanYee06&bg_color=191919&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XuanYee06&show_icons=true&theme=radical" height="auto">  
-  <img src="https://github.com/user-attachments/assets/2fede74a-defc-4823-abc1-d12571b86558" height="auto">
-</p> <br>  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XuanYee06&bg_color=191919&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true)  
+<br>
 
 # 📬 Connect With Me
 🔗 GitHub: [XuanYee06](https://github.com/XuanYee06)  
