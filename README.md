@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 💡 I enjoy exploring how data can solve real-world problems  
 ⚡ Fun fact: I'm a vegetarian 🥬
 
-
 ---
 
 # 🌱 Education 
