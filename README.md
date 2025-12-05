@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 🎓 **Year 1 Data Engineering Student at Universiti Teknologi Malaysia (UTM)**  
 💻 Interested in Data Analytics, Web & App Development and AI tools  
-💡 Always pushing my limits and aiming for excellence in every project
+💡 Always pushing my limits and aiming for excellence in every project  
 ⚡ Fun fact: I'm a vegetarian 🥬
 
 ---
