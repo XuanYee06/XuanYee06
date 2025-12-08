@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <br>
 
 # 📔 Projects  
-① **E-portfolio**   
+① **E-portfolio** -
 <br>
 
 # 📚 Courses
