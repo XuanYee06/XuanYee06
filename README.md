@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ---
 
-# 🌱 Education 
+# ✎𓂃 Education 
 - Universiti Teknologi Malaysia *(2025 – Present)*     
 &nbsp;&nbsp;&nbsp;&nbsp;- **Course:** Bachelor of Computer Science (Data Engineering) with Honors  
    
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;- **SPM:** 10A
 
   
-# 🤝 Position
+# 𐀪𐀪 Position
 - Kolej Matrikulasi Pulau Pinang    
 &nbsp;&nbsp;&nbsp;&nbsp;- Assistant head of publicity of Galactic Hackathon Club -- *2025*  
 &nbsp;&nbsp;&nbsp;&nbsp;- Volunteer of Karnival STEM Matikulasi MASCAR -- *2024*  
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - 1st place in Malaysia Kukkiwon Taekwondo Hanmadang - 2019  
 <br>
 
-# 🪛 Skills  
+# 🔍︎ Skills  
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -57,17 +57,17 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 <br>
 
-# 💻 Currently Learning
+# 🖳 Currently Learning
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 <br>
 
-# 📔 Projects  
+# 🗐 Projects  
 ① **E-portfolio** - 
 <br>
 
-# 📚 Courses
+# 🕮 Courses
 - [SECI1013 - Discrete Structure](https://github.com/XuanYee06/MyUniversityJourney/tree/4d5646e66c30bfc878c84caae1128cc842f5934f/SECI1013%20-%20Discrete%20Structure)
 - [SECJ1013 - Programming Technique I](https://github.com/XuanYee06/MyUniversityJourney/tree/4d5646e66c30bfc878c84caae1128cc842f5934f/SECJ1013%20-%20Programming%20Technique%20I)
 - [SECP1513 - Technology and Information System](https://github.com/XuanYee06/MyUniversityJourney/tree/4d5646e66c30bfc878c84caae1128cc842f5934f/SECP1513%20-%20Technology%20and%20Information%20System)
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XuanYee06&bg_color=191919&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true)  
 <br>
 
-# 📬 Connect With Me
+# ✉ Connect With Me
 🔗 GitHub: [XuanYee06](https://github.com/XuanYee06)  
 📧 Email: [xuanyeeng@gmail.com](mailto:xuanyeeng@gmail.com)  
 💼 LinkedIn: [in/ng-xuan-yee-114823397](https://www.linkedin.com/in/ng-xuan-yee-114823397/)  
