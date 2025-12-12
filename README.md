@@ -1,10 +1,7 @@
 # <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45">^^ Hi, I'm Ng Xuan Yee! 
 ![Profile views](https://komarev.com/ghpvc/?username=XuanYee06&color=FF69B4&style=for-the-badge)
 <!--
-**XuanYee06/XuanYee06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
--->
 🎓 **Year 1 Data Engineering Student at Universiti Teknologi Malaysia (UTM)**  
 💻 Interested in Data Analytics, Web & App Development and AI tools  
 💡 Always pushing my limits and aiming for excellence in every project  
