@@ -2,7 +2,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=XuanYee06&color=FF69B4&style=for-the-badge)
 <!--
 **XuanYee06/XuanYee06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+
 
 -->
 🎓 **Year 1 Data Engineering Student at Universiti Teknologi Malaysia (UTM)**  
