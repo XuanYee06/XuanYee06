@@ -3,7 +3,6 @@
 
 <p align="center">
   E-portfolio Website: https://xuanyee06.github.io/MyPortfolio/<br>
-  I’m actively updating and improving this site.
 </p>
 
 ---
