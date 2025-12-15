@@ -2,9 +2,11 @@
 ![Profile views](https://komarev.com/ghpvc/?username=XuanYee06&color=FF69B4&style=for-the-badge)
 
 <p align="center">
-  Welcome to my <a href="https://xuanyee06.github.io/MyPortfolio/">e-portfolio website</a>!<br>
+  E-portfolio Website: https://xuanyee06.github.io/MyPortfolio/<br>
   I’m actively updating and improving this site.
 </p>
+
+---
 
 🎓 **Year 1 Data Engineering Student at Universiti Teknologi Malaysia (UTM)**  
 💻 Interested in Data Analytics, Web & App Development and AI tools  
