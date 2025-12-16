@@ -59,7 +59,7 @@
 <br>
 
 # 🗐 Projects  
-① **E-portfolio** -  https://xuanyee06.github.io/MyPortfolio/
+① **E-portfolio** -  https://xuanyee06.github.io/MyPortfolio/  
 ② **Design Thinking** - [view](https://github.com/XuanYee06/MyUniversityJourney/blob/4b5045d3ecec67ed690355ec7b5e0b0ad15637ad/SECP1513%20-%20Technology%20and%20Information%20System/Design%20Thinking.md)
 <br>
 
