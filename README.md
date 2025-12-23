@@ -85,7 +85,7 @@
 <br>
 
 
-⭐ *“Every big journey starts with a single commit.”* 🚀
+⭐ *“Every big journey starts with a single 🚀
 
 
 
