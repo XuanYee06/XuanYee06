@@ -85,7 +85,4 @@
 <br>
 
 
-⭐ *“Every big journey starts with a
-
-
 
