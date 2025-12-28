@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45">^^ Hi, I'm Ng Xuan Yee! 
-![Profile views](https://komarev.com/ghpvc/?username=XuanYee06&color=FF69B4&style=for-the-badge)  
+![Profile views](https://komarev.com/ghpvc/?username=XuanYee06&color=FF69B4&style=for-the-badge)
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-Click%20Here-00C8FF?style=for-the-badge)](https://xuanyee06.github.io/MyPortfolio/)
 
 
