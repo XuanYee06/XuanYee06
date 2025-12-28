@@ -2,12 +2,10 @@
 ![Profile views](https://komarev.com/ghpvc/?username=XuanYee06&color=FF69B4&style=for-the-badge)
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-Click%20Here-00C8FF?style=for-the-badge)](https://xuanyee06.github.io/MyPortfolio/)
 
-
 🎓 **Year 1 Data Engineering Student at Universiti Teknologi Malaysia (UTM)**  
 💻 Interested in Data Analytics, Web & App Development and AI tools  
 💡 Always pushing my limits and aiming for excellence in every project  
 ⚡ Fun fact: I'm a vegetarian 🥬
-
 
 ---
 
@@ -56,14 +54,14 @@
 <br>
 
 # 🖳 Currently Learning
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/XuanYee06/MyPortfolio/tree/main)
+[![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)](https://github.com/XuanYee06/MyPortfolio/tree/main)
+[![C++](https://img.shields.io/badge/C++-007ACC?style=for-the-badge&logo=c%2B%2B)](https://github.com/XuanYee06/MyPortfolio/tree/main)   
 <br>
 
 # 🗐 Projects  
 ① **E-portfolio** -  https://xuanyee06.github.io/MyPortfolio/  
-② **Design Thinking** - [view](https://github.com/XuanYee06/MyUniversityJourney/blob/4b5045d3ecec67ed690355ec7b5e0b0ad15637ad/SECP1513%20-%20Technology%20and%20Information%20System/Design%20Thinking.md)
+② **Design Thinking** - [view](https://github.com/XuanYee06/MyUniversityJourney/blob/4b5045d3ecec67ed690355ec7b5e0b0ad15637ad/SECP1513%20-%20Technology%20and%20Information%20System/Design%20Thinking.md)  
 <br>
 
 # 🕮 Courses
@@ -71,7 +69,7 @@
 - [SECJ1013 - Programming Technique I](https://github.com/XuanYee06/MyUniversityJourney/tree/4d5646e66c30bfc878c84caae1128cc842f5934f/SECJ1013%20-%20Programming%20Technique%20I)
 - [SECP1513 - Technology and Information System](https://github.com/XuanYee06/MyUniversityJourney/tree/4d5646e66c30bfc878c84caae1128cc842f5934f/SECP1513%20-%20Technology%20and%20Information%20System)
 - [SECR1013 - Digital Logic](https://github.com/XuanYee06/MyUniversityJourney/tree/4d5646e66c30bfc878c84caae1128cc842f5934f/SECR1013%20-%20Digital%20Logic)
-- [ULRS1032 - Integrity and Anti-Corruption](https://github.com/XuanYee06/MyUniversityJourney/tree/4d5646e66c30bfc878c84caae1128cc842f5934f/ULRS1032%20-%20Integrity%20and%20Anti-Corruption)
+- [ULRS1032 - Integrity and Anti-Corruption](https://github.com/XuanYee06/MyUniversityJourney/tree/4d5646e66c30bfc878c84caae1128cc842f5934f/ULRS1032%20-%20Integrity%20and%20Anti-Corruption)  
 <br>
 
 # 🪧 My GitHub Stats
