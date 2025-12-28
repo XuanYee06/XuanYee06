@@ -1,6 +1,5 @@
 # <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45">^^ Hi, I'm Ng Xuan Yee! 
 ![Profile views](https://komarev.com/ghpvc/?username=XuanYee06&color=FF69B4&style=for-the-badge)
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:8A2BE2&height=200&section=header&text=https://xuanyee06.github.io/MyPortfolio/!&fontSize=40)
 
 
 🎓 **Year 1 Data Engineering Student at Universiti Teknologi Malaysia (UTM)**  
