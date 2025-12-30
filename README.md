@@ -86,6 +86,7 @@
 🔗 GitHub: [XuanYee06](https://github.com/XuanYee06)  
 📧 Email: [xuanyeeng@gmail.com](mailto:xuanyeeng@gmail.com)  
 💼 LinkedIn: [in/ng-xuan-yee-114823397](https://www.linkedin.com/in/ng-xuan-yee-114823397/)  
+💾 Personal Website: [xuanyee06.github.io/MyPortfolio/](https://xuanyee06.github.io/MyPortfolio/)  
 💬 WhatsApp: [Chat with me](https://wa.me/601110842832)  
 👣 Instagram: [xuanyee_1026](https://www.instagram.com/xuanyee_1026/)
 <br>
