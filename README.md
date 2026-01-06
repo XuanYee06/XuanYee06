@@ -68,6 +68,7 @@
 |-|-|-|
 |①|**E-portfolio**|[View](https://xuanyee06.github.io/MyPortfolio/)|
 |②|**Design Thinking**|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/main/SECP1513%20-%20Technology%20and%20Information%20System/Design%20Thinking.md) |  
+|③|**Electronic Lift Controller System**|
 <br>
 
 # 🕮 Courses
