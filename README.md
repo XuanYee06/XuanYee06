@@ -22,6 +22,9 @@
 - SMJK Kwang Hua *(2019 – 2024)*    
 &nbsp;&nbsp;&nbsp;&nbsp;- **SPM:** 10A
 
+- SSJK(C) Taman Rashna *(2013 – 2018)*    
+&nbsp;&nbsp;&nbsp;&nbsp;- **UPSR:** 8A
+
   
 # 𐀪𐀪 Position
 - Kolej Matrikulasi Pulau Pinang    
