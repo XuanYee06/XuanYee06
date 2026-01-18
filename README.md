@@ -77,7 +77,7 @@
 ||Projects|Link|
 |-|-|-|
 |①|**E-portfolio**|[View](https://xuanyee06.github.io/MyPortfolio/)|
-|②|**Design Thinking —** Student Engagement or Wellness Analytics|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/main/SECP1513%20-%20Technology%20and%20Information%20System/Design%20Thinking.md) |  
+|②|**Design Thinking —** Student Engagement or Wellness Analytics|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/main/SECP1513%20-%20Technology%20and%20Information%20System/Design%20Thinking%20Project.md) |  
 |③|**Electronic Lift Controller System**|[View](https://github.com/XuanYee06/MyUniversityJourney/tree/main/SECR1013%20-%20Digital%20Logic/Project)|
 <br>
 
