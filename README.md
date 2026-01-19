@@ -8,7 +8,6 @@
 ⚡ Fun fact: I'm a vegetarian 🥬
 
 ---
-
 # ✎𓂃 Education 
 - Universiti Teknologi Malaysia *(2025 – Present)*     
 &nbsp;&nbsp;&nbsp;&nbsp;- **Course:** Bachelor of Computer Science (Data Engineering) with Honors  
