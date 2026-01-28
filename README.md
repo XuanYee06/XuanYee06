@@ -2,7 +2,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=XuanYee06&color=FF69B4&style=for-the-badge)
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-Click%20Here-00C8FF?style=for-the-badge)](https://xuanyee06.github.io/MyPortfolio/)
 
-
 🎓 **Year 1 Data Engineering Student at Universiti Teknologi Malaysia (UTM)**  
 💻 Interested in Data Analytics, Web & App Development and AI tools  
 💡 Always pushing my limits and aiming for excellence in every project  
