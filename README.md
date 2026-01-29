@@ -7,7 +7,6 @@
 💡 Always pushing my limits and aiming for excellence in every project  
 ⚡ Fun fact: I'm a vegetarian 🥬
 
-
 ---
 # ✎𓂃 Education 
 - Universiti Teknologi Malaysia *(2025 – Present)*     
