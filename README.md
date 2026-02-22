@@ -10,7 +10,7 @@
 ---
 # ✎𓂃 Education 
 - Universiti Teknologi Malaysia *(2025 – Present)*     
-&nbsp;&nbsp;&nbsp;&nbsp;- **Course:** Bachelor of Computer Science (Data Engineering) with Honors
+&nbsp;&nbsp;&nbsp;&nbsp;- **Course:** Bachelor of Computer Science (Data Engineering) with Honors  
 &nbsp;&nbsp;&nbsp;&nbsp;- **CGPA:** 4.0
    
 - Kolej Matrikulasi Pulau Pinang *(2024 – 2025)*        
