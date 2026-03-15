@@ -82,11 +82,12 @@
 <br>
 
 # 🕮 Courses
-- [SECI1013 - Discrete Structure](https://github.com/XuanYee06/MyUniversityJourney/tree/main/SECI1013%20-%20Discrete%20Structure)
-- [SECJ1013 - Programming Technique I](https://github.com/XuanYee06/MyUniversityJourney/tree/main/SECJ1013%20-%20Programming%20Technique%20I)
-- [SECP1513 - Technology and Information System](https://github.com/XuanYee06/MyUniversityJourney/tree/main/SECP1513%20-%20Technology%20and%20Information%20System)
-- [SECR1013 - Digital Logic](https://github.com/XuanYee06/MyUniversityJourney/tree/main/SECR1013%20-%20Digital%20Logic)
-- [ULRS1032 - Integrity and Anti-Corruption](https://github.com/XuanYee06/MyUniversityJourney/tree/main/ULRS1032%20-%20Integrity%20and%20Anti-Corruption)  
+- [SECI1143 - Probability & Statistical Data Analysis](https://github.com/XuanYee06/Y1S2_25262/tree/main/SECI1143%20-%20Probability%20%26%20Statistical%20Data%20Analysis)
+- [SECJ1023 - Programming Technique II](https://github.com/XuanYee06/Y1S2_25262/tree/main/SECJ1023%20-%20Programming%20Technique%20II)
+- [SECP2613 - System Analysis and Design](https://github.com/XuanYee06/Y1S2_25262/tree/main/SECP2613%20-%20System%20Analysis%20and%20Design)
+- [SECR1033 - Computer Organization and Architecture](https://github.com/XuanYee06/Y1S2_25262/tree/main/SECR1033%20-%20Computer%20Organization%20and%20Architecture)
+- [SECV2113 - Human Computer Interaction](https://github.com/XuanYee06/Y1S2_25262/tree/main/SECV2113%20-%20Human%20Computer%20Interaction)
+- [ULRS1182 - Appreciation of Ethics and Civilizations](https://github.com/XuanYee06/Y1S2_25262/tree/main/ULRS1182%20-%20Appreciation%20of%20Ethics%20and%20Civilizations)  
 <br>
 
 # 🪧 My GitHub Stats
