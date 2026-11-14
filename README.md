@@ -64,18 +64,18 @@
 
 # 🔍︎ Skills  
 [![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)](https://www.microsoft.com/microsoft-365)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/XuanYee06/MyPortfolio/tree/main)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/XuanYee06/MyPortfolio)
+[![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)](https://github.com/XuanYee06/MyPortfolio/tree/main)
 [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)](https://www.java.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/XuanYee06/MyPortfolio/tree/main)
-[![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)](https://github.com/XuanYee06/MyPortfolio/tree/main)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 <br>
 
 # 🖳 Currently Learning
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/XuanYee06/MyPortfolio/tree/main)  
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/XuanYee06/MyPortfolio/tree/main)  
-[![C++](https://img.shields.io/badge/C++-007ACC?style=for-the-badge&logo=c%2B%2B)](https://github.com/XuanYee06/MyPortfolio/tree/main)   
+[![C++](https://img.shields.io/badge/C++-007ACC?style=for-the-badge&logo=c%2B%2B)](https://github.com/XuanYee06/MyPortfolio/tree/main)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/XuanYee06/MyPortfolio/tree/main)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/XuanYee06/MyPortfolio/tree/main)
 <br>
 
 # 🗐 Projects  
@@ -84,15 +84,6 @@
 |①|**E-portfolio**|[View](https://xuanyee06.github.io/MyPortfolio/)|
 |②|**Design Thinking —** Student Engagement or Wellness Analytics|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/main/SECP1513%20-%20Technology%20and%20Information%20System/Design%20Thinking%20Project.md) |  
 |③|**Electronic Lift Controller System**|[View](https://github.com/XuanYee06/MyUniversityJourney/tree/main/SECR1013%20-%20Digital%20Logic/Project)|
-<br>
-
-# 🕮 Courses
-- [SECI1143 - Probability & Statistical Data Analysis](https://github.com/XuanYee06/Y1S2_25262/tree/main/SECI1143%20-%20Probability%20%26%20Statistical%20Data%20Analysis)
-- [SECJ1023 - Programming Technique II](https://github.com/XuanYee06/Y1S2_25262/tree/main/SECJ1023%20-%20Programming%20Technique%20II)
-- [SECP2613 - System Analysis and Design](https://github.com/XuanYee06/Y1S2_25262/tree/main/SECP2613%20-%20System%20Analysis%20and%20Design)
-- [SECR1033 - Computer Organization and Architecture](https://github.com/XuanYee06/Y1S2_25262/tree/main/SECR1033%20-%20Computer%20Organization%20and%20Architecture)
-- [SECV2113 - Human Computer Interaction](https://github.com/XuanYee06/Y1S2_25262/tree/main/SECV2113%20-%20Human%20Computer%20Interaction)
-- [ULRS1182 - Appreciation of Ethics and Civilizations](https://github.com/XuanYee06/Y1S2_25262/tree/main/ULRS1182%20-%20Appreciation%20of%20Ethics%20and%20Civilizations)  
 <br>
 
 # 🪧 My GitHub Stats
