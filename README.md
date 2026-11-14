@@ -45,8 +45,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;- President of Librarian -- *2017-2018*  
 &nbsp;&nbsp;&nbsp;&nbsp;- Librarian -- *2014-2018*
 
-  
+   
 # 🏆 Certificates & Awards
+- Participated in NASA Space Apps Challenge 2026  
+- Participated in Sime Darby Property University Hackathon 2026  
+- Participated in DOSM Datathon 2026  
+- Participated in CodeNection 2026  
 - Participated in Matrix Extra Challenge Quiz (MeX-Q) - 2024
 - Participated in Malaysia Future Leaders School (MFLS) Tier 1 - 2023  
 - Participated in Kuiz Kimia Kebangsaan Malaysia (K₃M) - 2023  
@@ -54,7 +58,6 @@
 - 1st place in 11th TM-KBS-MILO National Junior Taekwondo Championship - 2022
 - 1st place in Kejohanan Taekwondo Remaja Selangor - 2020
 - 1st place in Malaysia Kukkiwon Taekwondo Hanmadang - 2019
-- 3rd place in Piala Serdang Open Invitation Taekwondo Championship - 2018
 - 2nd place in 11st CK Classic International Open Taekwondo Championship Malaysia - 2017
 <br>
 
