@@ -87,6 +87,10 @@
 |①|**E-portfolio**|[View](https://xuanyee06.github.io/MyPortfolio/)|
 |②|**Design Thinking —** Student Engagement or Wellness Analytics|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/main/SECP1513%20-%20Technology%20and%20Information%20System/Design%20Thinking%20Project.md) |  
 |③|**Electronic Lift Controller System**|[View](https://github.com/XuanYee06/MyUniversityJourney/tree/main/SECR1013%20-%20Digital%20Logic/Project)|
+|④|**OmniTrip Travel Planner**|[View](https://github.com/TenJingYi/Null)|  
+|⑤|**Tracking Tourist Trends**|[View](https://github.com/limlining/NULLDATATHON)|  
+|⑥|**End-to-end IoT Ecosystem Eco Compass**|[View](https://github.com/limlijing/ECOCOMPASS)|  
+|⑦|**Astronaut Health Assessment and Decision-Making Simulator**|[View](https://github.com/limlining/Nasa-Interim)|  
 <br>
 
 # 🪧 My GitHub Stats
