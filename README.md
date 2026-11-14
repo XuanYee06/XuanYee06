@@ -27,7 +27,7 @@
 
   
 # 𐀪𐀪 Position
-- Universiti Teknologi Malaysia
+- Universiti Teknologi Malaysia  
 &nbsp;&nbsp;&nbsp;&nbsp;- President of Chong De Volunteer Club -- *2026*  
 
 - Kolej Matrikulasi Pulau Pinang    
@@ -68,11 +68,13 @@
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/XuanYee06/MyPortfolio)
 [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)](https://www.java.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/XuanYee06/MyPortfolio/tree/main)
+[![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)](https://github.com/XuanYee06/MyPortfolio/tree/main)  
 <br>
 
 # 🖳 Currently Learning
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/XuanYee06/MyPortfolio/tree/main)
-[![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)](https://github.com/XuanYee06/MyPortfolio/tree/main)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/XuanYee06/MyPortfolio/tree/main)  
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/XuanYee06/MyPortfolio/tree/main)  
 [![C++](https://img.shields.io/badge/C++-007ACC?style=for-the-badge&logo=c%2B%2B)](https://github.com/XuanYee06/MyPortfolio/tree/main)   
 <br>
 
